@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf0113e0-eea9-4d60-9633-1d3721bf2719" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/abc.properties" afterDir="false" />
-    </list>
+    <list default="true" id="bf0113e0-eea9-4d60-9633-1d3721bf2719" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +90,7 @@
       <workItem from="1647093409594" duration="427000" />
       <workItem from="1647093853389" duration="20436000" />
       <workItem from="1647267117642" duration="3332000" />
-      <workItem from="1648567779673" duration="220000" />
+      <workItem from="1648567779673" duration="687000" />
     </task>
     <servers />
   </component>
